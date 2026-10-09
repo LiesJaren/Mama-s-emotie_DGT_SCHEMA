@@ -1,0 +1,6 @@
+{
+  "name": "Rustpunt & Handvaten - DGT & Schematherapie",
+  "description": "Persoonlijke houvast voor emotieregulatie, DGT-vaardigheden, Schematherapie modi en een interactief signalerings- en crisisplan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
